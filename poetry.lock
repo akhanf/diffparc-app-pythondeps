@@ -463,14 +463,6 @@ python-versions = ">=3.6"
 plugins = ["importlib-metadata"]
 
 [[package]]
-name = "pygraphviz"
-version = "1.10"
-description = "Python interface to Graphviz"
-category = "main"
-optional = false
-python-versions = ">=3.8"
-
-[[package]]
 name = "pyparsing"
 version = "3.0.9"
 description = "pyparsing module - Classes and methods to define and execute parsing grammars"
@@ -767,7 +759,7 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "b00cf353118d8132176d1b5c54c36a880b319e13143aa6b5ea64bae29401ac0b"
+content-hash = "33108d30175581b361af6efdedc9fe7c9e6e7e2ccb6c80ebebfc59f88e87fe60"
 
 [metadata.files]
 aiohttp = []
@@ -805,7 +797,6 @@ pandas = []
 pillow = []
 pybids = []
 pygments = []
-pygraphviz = []
 pyparsing = []
 pypdf2 = []
 python-dateutil = []

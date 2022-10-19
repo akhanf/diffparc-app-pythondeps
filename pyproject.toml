@@ -16,7 +16,6 @@ pandas = "^1.4.2"
 networkx = "^2.7.1"
 pillow = "9.0.1"
 pyvista = "^0.36.1"
-pygraphviz = "^1.9"
 Pygments = "^2.11.2"
 
 
