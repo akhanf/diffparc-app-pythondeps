@@ -1,4 +1,5 @@
-FROM python:3.9-slim-buster
+FROM ghcr.io/pyvista/pyvista:v0.36.1-slim
+
 MAINTAINER <alik@robarts.ca>
 
 COPY . .
